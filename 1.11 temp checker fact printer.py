@@ -35,9 +35,9 @@ while i < len(temperatures):
 ...
 ...
 
-print(temperatures)
-print(negative_temp)
-print(min_temp)
-print(max_temp)
-print(avg_temp)
-print(mesaurements)
+print("Temp report for march ")
+print("num of days under 0 ",negative_temp)
+print("min temp",min_temp)
+print("max temp",max_temp)
+print("avg temp",avg_temp)
+print("num of days",mesaurements)
